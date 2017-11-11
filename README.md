@@ -1,4 +1,10 @@
 # Demo Project
 
 This is a demo project
-It should go away
+
+## This is a smaller heading
+with some other text
+
+### And an even smaller heading
+
+With even more text
